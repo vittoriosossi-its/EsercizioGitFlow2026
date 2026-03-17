@@ -1,1 +1,2 @@
 "File di documentazione" 
+Aggiunta descrizione dettagliata 
